@@ -25,4 +25,3 @@ export const Statistics = ({
     total: PropTypes.number.isRequired,
     positivePercentage: PropTypes.number.isRequired,
   };
-
